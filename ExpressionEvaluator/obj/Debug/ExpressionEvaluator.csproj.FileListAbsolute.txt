@@ -1,0 +1,5 @@
+C:\Users\Chad\documents\visual studio 2012\Projects\ExpressionEvaluator\ExpressionEvaluator\bin\ExpressionEvaluator.dll
+C:\Users\Chad\documents\visual studio 2012\Projects\ExpressionEvaluator\ExpressionEvaluator\bin\ExpressionEvaluator.pdb
+C:\Users\Chad\documents\visual studio 2012\Projects\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ExpressionEvaluator.dll
+C:\Users\Chad\documents\visual studio 2012\Projects\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ExpressionEvaluator.pdb
+C:\Users\Chad\documents\visual studio 2012\Projects\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\ExpressionEvaluator.csprojResolveAssemblyReference.cache

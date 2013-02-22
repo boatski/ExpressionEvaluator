@@ -1,0 +1,28 @@
+﻿.container {
+    margin-top: 200px;
+}
+
+.variables {
+    margin-right: 10px;
+    width: 100%;
+    text-align: right;
+}
+
+.values {
+    float: right;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.evaluationBox {
+    text-align: center;
+}
+
+.allVariables {
+    text-align: center;
+}
+
+.variableRow {
+}
